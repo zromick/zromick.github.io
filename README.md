@@ -4,8 +4,10 @@
 
 Check out my projects! All of my public repositories can be found [on GitHub.](https://github.com/zromick)
 
-[Conway's Game of Life](https://zromick.github.io/conways-game-of-life): A simulation of Conway's Game of Life. Built using minimalistic React and Material-UI code. Source code is available [here.](https://github.com/zromick/conways-game-of-life)
+[Shukra](https://github.com/Headstorm/shukra): An Akka cluster visualization and management dashboard that inspects your local or remote clusters. Built in collaboration with [Headstorm's](https://www.headstorm.com) Open Source Group.
 
-[Mini Word Tool](https://zromick.github.io/Mini-Word-Tool-2): A minimalistic word frequency counter and proper noun replacement tool. Currently building this to allow editors to change real names to fictional names throughout large texts. Source code is available [here.](https://github.com/zromick/Mini-Word-Tool-2)
+[Conway's Game of Life](https://zromick.github.io/conways-game-of-life): A minimalistic simulation of Conway's Game of Life. Source code is available [here.](https://github.com/zromick/conways-game-of-life)
 
-[yt-frame-timer](https://slashinfty.github.io/yt-frame-timer/): Came up with this idea in December of 2018 to help speedrun.com moderators retime more accurately and quickly. I contributed a bit of JS code to the project. Source code is available [here.](https://github.com/slashinfty/yt-frame-timer)
+[Mini Word Tool](https://zromick.github.io/Mini-Word-Tool-2): Experimentally built to visualize and enhance word replacement for writers. Source code is available [here.](https://github.com/zromick/Mini-Word-Tool-2)
+
+[yt-frame-timer](https://slashinfty.github.io/yt-frame-timer/): Allows [speedrun.com](https://www.speedrun.com) moderators to retime thousands of speedruns more accurately and quickly. Source code is available [here.](https://github.com/slashinfty/yt-frame-timer)
