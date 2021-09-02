@@ -1,4 +1,4 @@
-# Projects
+# Zac Romick's Projects
 
 Check out my projects! All of my public repositories can be found [on GitHub.](https://github.com/zromick)
 
