@@ -1,5 +1,3 @@
-## Welcome to Zac Romick's Personal Website
-
 # Projects
 
 Check out my projects! All of my public repositories can be found [on GitHub.](https://github.com/zromick)
