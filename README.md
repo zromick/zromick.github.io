@@ -2,7 +2,7 @@
 
 Check out my projects! All of my public repositories can be found [on GitHub.](https://github.com/zromick)
 
-[Mini Word Tool](https://zromick.github.io/Mini-Word-Tool-2): A work in progress — currently gathering feedback! Experimentally built to visualize and enhance word replacement for writers. Source code is available [here.](https://github.com/zromick/Mini-Word-Tool-2/tree/master)
+[Replace Word Tool](https://zromick.github.io/Replace-Word-Tool): A work in progress — currently gathering feedback! Experimentally built to visualize and enhance word replacement for writers. Source code is available [here.](https://github.com/zromick/Mini-Word-Tool-2/tree/master)
 
 [Shukra](https://github.com/Headstorm/shukra): An Akka cluster visualization and management dashboard that inspects your local or remote clusters. Built in collaboration with [Headstorm's](https://www.headstorm.com) Open Source Group.
 
